@@ -1,9 +1,6 @@
-# MLOps – 2‑Day (14h) Course
+# MLOps – Course
 
-This repository contains the slides, labs, and project scaffold for a 2‑day MLOps training (total 14h):
-- **Lectures**: 4h
-- **Labs**: 5h
-- **Project**: 5h
+This repository contains the slides, labs, and project scaffold for a  MLOps training:
 
 ## Structure
 ```
@@ -11,14 +8,13 @@ mlops_2day_course/
 ├── slides/
 │   └── MLOps_SupdeVinci.pptx
 ├── labs/
-│   ├── day1_hf_sentiment/
-│   └── day2_mlflow_tracking/
+│   ├── Lab1/
+│   └── Lab2_SA_HuggingFace/
 ├── project/
 │   └── ml_microservice/
 ├── docs/
 │   └── syllabus.md
-└── .github/workflows/
-    └── ci.yml
+
 ```
 
 ## Quickstart
